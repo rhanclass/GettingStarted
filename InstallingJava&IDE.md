@@ -31,5 +31,5 @@ sudo apt-get install openjdk-8-jdk
 
 To access your C drive from the Linux environment, type in the comand 
 ```
-cd mnt/c
+cd /mnt/c
 ```
