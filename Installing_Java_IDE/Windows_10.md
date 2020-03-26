@@ -24,12 +24,7 @@ sudo apt-get install openjdk-8-jdk
 ```
 - Then we are done!
 ## Step 3: Installing the IDE
-- The preferred IDE we will be using is ATOM, because it is linked to Github.
-- Go to this [website](https://atom.io/) and click download
+- The preferred IDE we will be using is VSCode, because it is easy to learn and use.
+- Go to this [website](https://code.visualstudio.com/download) and click download
 - After you are done, also pin it to your taskbar. 
 
-
-To access your C drive from the Linux environment, type in the comand 
-```
-cd /mnt/c
-```
