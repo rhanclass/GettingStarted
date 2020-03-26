@@ -23,6 +23,6 @@ javac
 ```
 - Then we are done!
 ## Step 3: Installing the IDE
-- The preferred IDE we will be using is ATOM, because it is linked to Github.
-- Go to this [website](https://atom.io/) and click download
+- The preferred IDE we will be using is VSCode since it is simple and easy to learn.
+- Go to this [website](https://code.visualstudio.com/download) and click download based on your operating system.
 - After you are done, also pin it to your taskbar. 
