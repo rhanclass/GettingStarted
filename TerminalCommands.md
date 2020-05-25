@@ -14,7 +14,12 @@ Remember this command is case sensitive.
 ```
 mkdir <new directory/folder name>
 ```
-Use this command wen you need to create a folder or a directory. 
+Use this command when you need to create a folder or a directory. 
+********************************************************************************************
+```
+touch <new file name and extension>
+```
+Use this command when you want to create a new blank file with a certain extension
 ********************************************************************************************
 ```
 rm <file name>
@@ -25,6 +30,16 @@ Use this command to delete files and directories.
 cat <file name>
 ```
 Use this command to display the contents of a file in the terminal without opening it.
+********************************************************************************************
+```
+mv <original file name> <new file name>
+```
+Use this command to rename a file something else
+********************************************************************************************
+```
+mv <original file/folder name> <new destination>
+```
+Use this command to move a file/folder in the current directory to another directory
 ********************************************************************************************
 ```
 javac <java file including the .java>
