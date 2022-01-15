@@ -29,5 +29,5 @@ sudo apt-get install openjdk-8-jdk
 - After you are done, also pin it to your taskbar. 
 
 ## Step 4: Opening Terminal
-- To open the terminal, press ```ctrl + ` ``` at the same time and it should open. On the upper right side of the terminal, you will see an option to switch the terminal type. Make sure your terminal is set to the ```wsl``` shell instead of powershell to use the ubuntu terminal. You could set it to default if you need.
+- To open the terminal once you open VSCode, press ```ctrl + ` ``` at the same time and it should open. On the upper right side of the terminal, you will see an option to switch the terminal type. Make sure your terminal is set to the ```wsl``` shell instead of powershell to use the ubuntu terminal. You could set it to default if you need.
 - Follow this [tutorial](https://github.com/rhanclass/GettingStarted/blob/master/TerminalCommands.md) if you want to familiarize yourself with how to nagivate terminal. (Note that this will probably be useful in the future) 
