@@ -26,3 +26,7 @@ javac
 - The preferred IDE we will be using is VSCode since it is simple and easy to learn.
 - Go to this [website](https://code.visualstudio.com/download) and click download based on your operating system.
 - After you are done, also pin it to your taskbar. 
+
+## Step 4: Opening the Terminal
+- Once VSCode is open, you can press ```ctrl + ` ``` to open the terminal.  
+- Follow this [tutorial](https://github.com/rhanclass/GettingStarted/blob/master/TerminalCommands.md) if you want to familiarize yourself with how to nagivate terminal. (Note that this will probably be useful in the future) 
